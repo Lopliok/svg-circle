@@ -2,6 +2,9 @@
 
 typed library for creating svg circles
 
+Playground:
+https://stackblitz.com/edit/react-ts-kxmmdc
+
 Example:
 
 <Circle
